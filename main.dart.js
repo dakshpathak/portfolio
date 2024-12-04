@@ -27109,7 +27109,7 @@ a5J:function a5J(a,b){this.a=a
 this.b=b},
 zd(a,b){var s,r,q,p,o,n=null,m=J.P0(5,t.KP)
 for(s=t.p,r=0;r<5;++r){q=A.bc("Full-Stack Developer",n,n,n,A.d_().$4$color$fontSize$fontWeight$letterSpacing(B.aU,18,B.ap,2),n,n)
-p=A.bc("Anuroop Farkya".toUpperCase(),n,n,n,A.d_().$4$fontSize$fontWeight$height$letterSpacing(40,B.ap,1.3,2.3),n,n)
+p=A.bc("Daksh Pathak".toUpperCase(),n,n,n,A.d_().$4$fontSize$fontWeight$height$letterSpacing(40,B.ap,1.3,2.3),n,n)
 o=new A.aQ(8,8)
 q=A.b([new A.o6(B.D,n,n,A.cm(A.b([q,B.Ta,p,B.bP,B.Rd,B.fm,A.be(n,A.ap8(A.bc("Let's Talk",n,n,n,new A.p(!0,B.aN,n,n,n,n,13,B.a3,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),n,n),new A.aCh(b),n),B.k,n,n,new A.cD(B.aU,n,n,new A.cC(o,o,o,o),n,n,B.ab),n,48,n,n,B.Is,n,n,n)],s),B.aO,B.as,B.c3),n),new A.dq(B.Aw,n,n,new A.iB(n,n,n,B.aQ,new A.aR(n,70,new A.Ay(new A.aCi(),n),n),n),n)],s)
 p=$.aRg()
@@ -89958,7 +89958,7 @@ $3(a,b,c){var s,r=$.lW(),q=t.sb,p=b.h4(r,q).a===B.bf?$.a3g():$.a3h()
 q=b.h4(r,q).a
 r=$.a3h()
 s=$.a3g()
-return new A.tK(new A.w9($.aR8(),"Anuroop Farkya",r,s,q,!1,null),p,null)},
+return new A.tK(new A.w9($.aR8(),"Daksh Pathak",r,s,q,!1,null),p,null)},
 $C:"$3",
 $R:3,
 $S:569}
@@ -90150,7 +90150,7 @@ return new A.js(this.DE(A.as(a,null,t.w).w.a.a*0.8),r,s,null)},
 DE(a){return A.df(new A.iu(new A.arg(a),null),null,null)}}
 A.arg.prototype={
 $2(a,b){var s=null,r=this.a,q=b.b>720,p=q?B.ae:B.a1,o=q?1:0,n=t.p
-n=A.b([A.jb(A.cm(A.b([B.de,A.bc("Hey, there!",s,s,s,A.d_().$3$fontSize$fontWeight$height(35,B.ap,1.3),s,s),B.fm,A.bc("I'm Anuroop Farkya, A Flutter and iOS Developer and Technical Blog Writer",s,s,s,A.d_().$3$fontSize$fontWeight$height(24,B.a3,1.3),s,s),B.bP,B.YJ,B.bQ,B.YN,B.bP,A.qA(new A.are()),B.Td],n),B.aO,B.as,B.q),o),B.T8],n)
+n=A.b([A.jb(A.cm(A.b([B.de,A.bc("Hey, there!",s,s,s,A.d_().$3$fontSize$fontWeight$height(35,B.ap,1.3),s,s),B.fm,A.bc("I'm Daksh Pathak, A Flutter and iOS Developer and Technical Blog Writer",s,s,s,A.d_().$3$fontSize$fontWeight$height(24,B.a3,1.3),s,s),B.bP,B.YJ,B.bQ,B.YN,B.bP,A.qA(new A.are()),B.Td],n),B.aO,B.as,B.q),o),B.T8],n)
 if(A.as(a,s,t.w).w.a.a>=1200||A.aLY(a)){o=q?1:0
 q=q?250:s
 n.push(A.jb(new A.Me(B.A,B.ON,new A.arf(),q,s),o))}return A.wS(B.bE,s,s,s,s,A.a9Z(n,B.r,p,s,B.x,B.q,s,s,B.bq),!1,s,s,!1,1,s,s,s,r,s,s,r,s,!0,!1)},
