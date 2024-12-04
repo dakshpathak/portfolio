@@ -90392,7 +90392,7 @@ p=A.bc("I may not be perfect, but I'm surely of some help",o,o,o,A.d_().$2$color
 n=A.as(a,o,n).w.a.a>=1200?100:70
 return A.wS(B.bE,o,o,o,o,A.cm(A.b([m,r,B.bQ,q,B.ib,p,new A.aR(o,n,o,o),A.qA(new A.azk(this)),B.l2,A.be(B.D,new A.iu(new A.azl(a),o),B.k,o,o,o,o,o,o,o,o,o,o,o)],s),B.r,B.x,B.q),!1,o,o,!1,1,o,o,o,b,o,o,b,o,!0,!1)}}
 A.azj.prototype={
-$0(){A.kw("https://github.com/AnuroopFarkya11/AnuroopFarkya11/raw/refs/heads/main/Anuroop_Mobile_App_Development.pdf")},
+$0(){A.kw("https://github.com/dakshpathak/portfolio-code/raw/refs/heads/main/Daksh_Pathak.pdf")},
 $S:0}
 A.azk.prototype={
 $3(a,b,c){var s=this.a.f,r=A.T(s).h("P<1,d9>")
