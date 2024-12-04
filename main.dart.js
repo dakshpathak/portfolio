@@ -90066,7 +90066,7 @@ BA(a,b,c){this.a2Q(0,b,c)},
 BJ(a,b){A.l(a.a)
 this.a2S(a,b)}}
 A.a3V.prototype={
-$0(){A.kw("mailto:anuroopf02@gmail.com")},
+$0(){A.kw("mailto:dp.dakshpathak@gmail.com")},
 $S:0}
 A.a3W.prototype={
 $0(){A.kw("https://www.linkedin.com/in/anuroopfarkya/")},
@@ -101482,8 +101482,8 @@ r($,"b9S","aRh",()=>A.xr("C++","assets/images/technology/c++.png"))
 r($,"b9W","aRl",()=>A.xr("Javascript","assets/images/technology/javascript.png"))
 r($,"b9Y","aRn",()=>A.xr("Swift","assets/images/technology/swift.png"))
 r($,"b9Z","aHG",()=>A.b([$.aRk(),$.aRi(),$.aRn(),$.aRh(),$.aRm(),$.aRl(),$.aRj()],t.r7))
-s($,"bd_","aTs",()=>{var q="+91 8305048867"
-return A.b([A.aaC(B.nS,new A.aCF(),"Indore, Madhya Pradesh","India","ADDRESS"),A.aaC(B.Ju,new A.aCG(),q,"","PHONE"),A.aaC(B.Jq,new A.aCH(),"anuroopf02@gmail.com","","EMAIL"),A.aaC(B.Jy,new A.aCI(),q,"","WHATSAPP")],A.am("w<vF>"))})
+s($,"bd_","aTs",()=>{var q="+91 7000472097"
+return A.b([A.aaC(B.nS,new A.aCF(),"Indore, Madhya Pradesh","India","ADDRESS"),A.aaC(B.Ju,new A.aCG(),q,"","PHONE"),A.aaC(B.Jq,new A.aCH(),"dp.dakshpathak@gmail.com","","EMAIL"),A.aaC(B.Jy,new A.aCI(),q,"","WHATSAPP")],A.am("w<vF>"))})
 s($,"bdh","aTy",()=>A.b([A.aMj("20+","Projects"),A.aMj(B.f.j(A.aLx(A.aVl())-2021),"Years\nExperience")],A.am("w<xl>")))
 s($,"bcW","aI0",()=>A.b([A.aEx("assets/images/learn.png","","Learn"),A.aEx("assets/images/develop.png","","Develop"),A.aEx("assets/images/blog.png","","Document It")],A.am("w<Nh>")))
 s($,"bd1","aI1",()=>A.aIO(new A.aD2(),t.xB))
